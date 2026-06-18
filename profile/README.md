@@ -17,6 +17,3 @@ Our engineers are energized by hard challenges and driven to solve them with bol
 - We collaborate across disciplines to create strong end-to-end solutions
 - We treat every problem as an opportunity to invent better ways of working
 
-## Join us
-
-If you love solving meaningful technical problems and building systems that matter, you’ll fit right in.
